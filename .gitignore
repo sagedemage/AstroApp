@@ -18,3 +18,14 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# krita files
+.kra
+
+# cached files
+public/favicon.ico~
+public/favicon.kra~
+public/favicon.kra
+
+# vscode
+.vscode

@@ -1,20 +1,21 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from 'src/layouts/Layout.astro';
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title="About">
 	<main>
 		<h1> About </h1>
 		<p>
 			This is the about page
 		</p>
+		<p class="red">
+			red
+		</p>
 	</main>
 </Layout>
 
 <style>
-	h1 {
-		font-size: 3rem;
-		font-weight: 800;
-		margin: 0;
+	.red {
+		color: red;
 	}
 </style>
