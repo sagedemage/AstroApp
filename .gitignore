@@ -26,3 +26,6 @@ pnpm-debug.log*
 public/favicon.ico~
 public/favicon.kra~
 public/favicon.kra
+
+# vscode
+.vscode
