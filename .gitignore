@@ -23,4 +23,6 @@ pnpm-debug.log*
 .kra
 
 # cached files
-*.*~
+public/favicon.ico~
+public/favicon.kra~
+public/favicon.kra
